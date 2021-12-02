@@ -1,7 +1,7 @@
 ---
 title: docker
 date: 2021-11-22 00:16:53
-tags:
+tags: docker
 ---
 
 ## 安装
